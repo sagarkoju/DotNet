@@ -1,0 +1,8 @@
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\bin\Debug\contextMenuStrip.exe.config
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\bin\Debug\contextMenuStrip.exe
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\bin\Debug\contextMenuStrip.pdb
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\obj\Debug\contextMenuStrip.Form1.resources
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\obj\Debug\contextMenuStrip.Properties.Resources.resources
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\obj\Debug\contextMenuStrip.csproj.GenerateResource.Cache
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\obj\Debug\contextMenuStrip.exe
+c:\users\sagar\documents\visual studio 2013\Projects\contextMenuStrip\contextMenuStrip\obj\Debug\contextMenuStrip.pdb

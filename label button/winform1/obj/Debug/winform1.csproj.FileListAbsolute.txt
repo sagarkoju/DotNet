@@ -1,0 +1,21 @@
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\bin\Debug\winform1.exe.config
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\bin\Debug\winform1.exe
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\bin\Debug\winform1.pdb
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\obj\Debug\winform1.csprojResolveAssemblyReference.cache
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\obj\Debug\winform1.Form1.resources
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\obj\Debug\winform1.Properties.Resources.resources
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\obj\Debug\winform1.csproj.GenerateResource.Cache
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\obj\Debug\winform1.exe
+c:\users\sagar\documents\visual studio 2013\Projects\winform1\winform1\obj\Debug\winform1.pdb
+C:\Users\Sagar\Documents\Visual Studio 2013\Projects\label button\winform1\bin\Debug\winform1.exe.config
+C:\Users\Sagar\Documents\Visual Studio 2013\Projects\label button\winform1\obj\Debug\winform1.exe
+C:\Users\Sagar\Documents\Visual Studio 2013\Projects\label button\winform1\obj\Debug\winform1.pdb
+F:\DOTNET\label button\winform1\bin\Debug\winform1.exe.config
+F:\DOTNET\label button\winform1\obj\Debug\winform1.exe
+F:\DOTNET\label button\winform1\obj\Debug\winform1.pdb
+F:\DOTNET\label button\winform1\bin\Debug\winform1.exe
+F:\DOTNET\label button\winform1\bin\Debug\winform1.pdb
+F:\DOTNET\label button\winform1\obj\Debug\winform1.csprojResolveAssemblyReference.cache
+F:\DOTNET\label button\winform1\obj\Debug\winform1.Form1.resources
+F:\DOTNET\label button\winform1\obj\Debug\winform1.Properties.Resources.resources
+F:\DOTNET\label button\winform1\obj\Debug\winform1.csproj.GenerateResource.Cache
